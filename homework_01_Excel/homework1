@@ -1,0 +1,12 @@
+What are three conclusions we can make about Kickstarter campaigns given the provided data?
+1. The projects with goal lower than $1000 got the highest success rate. The graph of successful/failed/canceled rate vs. goal suggests that generally the higher the goal is, the higher the failed/canceled rates are.
+2. The category data indicated that the most often launched project at Kickstarter is category theater, followed by music and technology.
+3. The counts of successful/failed/canceled vs. launched month data indicated less successful/more failed projects launched in December. The number of successful project peaks in May, however, 
+
+What are some of the limitations of this dataset?
+1. This data set did not include the information of the founder(s) of each project. So we could not tell how the background information of each founder affects the success rate of each project. 
+2. Many Kickstarter projects came from the US(around 2/3), but those data did not divide into other sub-categories(states, regions, etc.).  
+
+What are some other possible tables/graphs that we could create?
+1. We can create a sheet which contains staff-pick and state data. The table tell us that the staff-pick projects get a higher chance to be successful(87.3% successful vs 47.76% successful for projects not picked by the staff)
+2. We can use Date Created and Date End data to create the Duration data for those projects, and compare the duration data to the state and the pledged data. 
